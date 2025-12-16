@@ -28,3 +28,4 @@ CREATE INDEX IF NOT EXISTS idx_employee_department ON employees(department_id);
 CREATE INDEX IF NOT EXISTS idx_employee_name ON employees(name);
 CREATE INDEX IF NOT EXISTS idx_department_code ON departments(code);
 
+

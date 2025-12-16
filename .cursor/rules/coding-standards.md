@@ -291,3 +291,4 @@ List<String> names = employees.stream()
 5. **セキュリティ**: セキュリティホールがないか
 6. **テスト**: テスト可能な設計か
 
+

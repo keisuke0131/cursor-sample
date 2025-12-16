@@ -8,3 +8,4 @@ INSERT INTO departments (id, name, code, created_at, updated_at) VALUES
 ALTER TABLE departments ALTER COLUMN id RESTART WITH 4;
 ALTER TABLE employees ALTER COLUMN id RESTART WITH 1;
 
+
